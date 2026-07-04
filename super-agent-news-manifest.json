@@ -1,0 +1,25 @@
+{
+  "citations": [
+    "[creao.ai](https://creao.ai/for/recruiters)",
+    "[tenzo.ai](https://www.tenzo.ai/blog/ai-recruiting-assistants-2026-guide)",
+    "[shrm.org](https://news.google.com/rss/articles/CBMitAFBVV95cUxQTkdtSG5WMEh2UzEybUhLNHZPdkhic01lUW41bjFDMGpYT0JEQVFsVWhpdkNRR2pHSXdvUEZUWUtnOEhpeWFxdnNwcW52YWNibkdxdTdwODRXWWhkZnhsbW1CdU9XT2p1QXNwSFQtXzFqaFJjVnlLZlVBM2ZNZ3E2MEhMbVl1S0s2SFZ4b3ZrLU4xWldobHhQN0RNVjZBSGtRUVlXSkdZMVBUOUdROTFvbDBlSzA?oc=5)",
+    "[blog.google](https://news.google.com/rss/articles/CBMitAFBVV95cUxOVjllUkZKb0szb0oyXzd5NnNVdGlQZk9PYmNkWlQyU3VkdGpNNGFhaVVoRGdOaFB1dDNRbUVrMWRzdFRnc3JBZlZZUThFeHdjQTljTW1oVnJPU1p6MDU2b2lZQ2tsV0I5Q2NSeWdhd09FV0plYTB3NmdTRlZVbHlQQ3gzazZpOVYzMWV4QjQ4S0xnT0tickhIZVMzcTVWMjVOQ2xpS2dOZTFXUms4LTJ0Y2s0YU0?oc=5)"
+  ],
+  "design_plan": "rng_seed=42; audience=recruiters; AIDA_checked=true; hero_lines=2-3; bento_density=grid-auto-flow:dense verified; competitors_sweep=Folk,Orchids,Siri,ChatGPT,Gemini,Grok; CTA_contrast=black/white pills OK",
+  "generated_at": "2026-07-04T21:19:21.501824+00:00",
+  "headline": "Super for recruiters sourcing candidates and coordinating interviews",
+  "site_brief": {
+    "audience": "recruiters sourcing candidates and coordinating interviews",
+    "goal": "Create a conversion-focused landing page for this audience. Tie current market evidence to pain points, then show how Super can operate apps and reuse a computer-use cache for repeated work.",
+    "kind": "niche_landing",
+    "queries": [
+      "recruiters sourcing candidates and coordinating interviews AI assistant",
+      "recruiters sourcing candidates and coordinating interviews personal AI agent",
+      "computer use AI agent",
+      "AI workflow automation"
+    ],
+    "slug": "super-for-recruiters-sourcing-candidates-and-coordinating",
+    "title": "Super for recruiters sourcing candidates and coordinating interviews"
+  },
+  "summary": "A conversion\u2011focused niche landing page for recruiters who spend hours sourcing candidates, personalizing outreach, and coordinating interviews. The page ties current evidence from recruiting and agentic\u2011AI coverage to real recruiter workflows, then positions Super as the sharper alternative: a personal AI agent that actually operates recruiting tools and reuses a computer-use cache so repeated sourcing and coordination work gets faster and cheaper over time."
+}
